@@ -1,0 +1,5 @@
+.idea/
+__pychache__/
+*.sqlite3
+local_settings.py
+secret.py
